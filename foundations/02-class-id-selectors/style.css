@@ -14,5 +14,9 @@
 
 #second {
     background-color: rgb(145, 238, 145);
+<<<<<<< HEAD
+=======
+    font-size: 24px;
+>>>>>>> ab327cf797d2f91e0377de233bbc83205b2e3e70
     font-weight: bold;
 }
